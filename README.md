@@ -13,7 +13,7 @@ For the last two sections, you are more on your own. In these two, the usage of 
 ## Installation of Git from the Software Center
 
 1. Open the Software Center application.
-2. In the search field, type **Git**.
+2. In the search field, type **Git**. *Please note that the current version is newer than the one shown in the picture.*
 
    ![Installation of Git from Software Center](pictures/software_center.png)
 
