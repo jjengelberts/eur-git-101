@@ -126,3 +126,7 @@ For the last two sections, you are more on your own. In these two, the usage of 
    ![Answer to checking out branch libpng12](pictures/gitgui10.png)
 
 Tags are used for fixed, static versions. Branches are used for dynamic versions. For example, libpng12 might still get bug fixes and security updates, although its functionality will no longer be expanded nor modified.
+
+## More in-depth course on GIT
+
+After the lunch session on October 31st 2018, some of the participants indicated that they would be interested in a more in-depth course on GIT. On November 8th, a more advanced course will be given. Please check-out more information on [http://jjengelberts.github.io/eur-git](http://jjengelberts.github.io/eur-git).
