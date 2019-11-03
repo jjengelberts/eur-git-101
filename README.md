@@ -1,4 +1,4 @@
-# Git tutorial - Eramus University Rotterdam - 101
+# Introduction to Git - Eramus University Rotterdam
 
 Welcome to the hands-on session for Git during the lunch break of October 31st 2018! During this session all steps included in this document will be followed one by one. After the session, you will be able to replay the actions yourself.
 
