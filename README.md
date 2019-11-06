@@ -129,4 +129,4 @@ Tags are used for fixed, static versions. Branches are used for dynamic versions
 
 ## More in-depth course on GIT
 
-After the lunch session on October 31st 2018, some of the participants indicated that they would be interested in a more in-depth course on GIT. On November 8th, a more advanced course will be given. Please check-out more information on [http://jjengelberts.github.io/eur-git](http://jjengelberts.github.io/eur-git).
+After the lunch session on October 31st 2018, some of the participants indicated that they would be interested in a more in-depth course on GIT. On November 8th 2019, a more advanced course will be given. Please check-out more information on [http://jjengelberts.github.io/eur-git](http://jjengelberts.github.io/eur-git).
